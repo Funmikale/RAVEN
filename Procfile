@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run fff.py
+web: sh setup.sh && streamlit run raven.py
