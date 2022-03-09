@@ -2,3 +2,4 @@ numpy
 panda
 streamlit
 sklearn
+xgboost
